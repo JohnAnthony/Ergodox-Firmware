@@ -7,6 +7,8 @@
 #include "../matrix.h"
 #include "../layout.h"
 
+
+
 // ----------------------------------------------------------------------------
 // ----------------------------------------------------------------------------
 
@@ -25,11 +27,11 @@ const uint8_t PROGMEM _kb_layout[KB_LAYERS][KB_ROWS][KB_COLUMNS] = {
                                                   0, 0, _pageD,
                                            _space, _bs,  _guiL,
 // right hand
-        0, _6,      _7,      _8,      _9,         _0,         0,
-_bracketL, _Y,      _U,      _I,      _O,         _P,         0,
-           _H,      _J,      _K,      _L, _semicolon,    _quote,
-        0, _N,      _M,  _comma, _period,     _slash,   _shiftR,
-             _bracketL, _bracketR, _altR,          0,    _ctrlR,
+        0, _6,      _7,      _8,      _9,           _0,         0,
+_bracketL, _Y,      _U,      _I,      _O,           _P,         0,
+           _H,      _J,      _K,      _L,   _semicolon,    _quote,
+        0, _N,      _M,  _comma, _period,       _slash,   _shiftR,
+             _bracketL, _bracketR, _altR, _pound_nonUS,    _ctrlR,
  _pageU, _insert,
  _pageD, 0, 0,
 _guiR, _enter, _space ),
