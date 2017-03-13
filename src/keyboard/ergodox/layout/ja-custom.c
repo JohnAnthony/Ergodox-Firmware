@@ -60,7 +60,7 @@ _pageD,       0, 0,
   FREE,    FREE,    FREE,    FREE, FREE,
                                         FREE,  FREE,
                                        0,  0,  FREE,
-                                 FREE,  FREE,  FREE,
+                               _space,  FREE,  FREE,
 // right hand
 _F12,     _F6,     _F7,     _F8,     _F9, _F10, FREE,
 FREE,    FREE,    FREE,    FREE,    FREE, FREE, FREE,
@@ -69,7 +69,7 @@ FREE,    FREE,    FREE,    FREE,    FREE, FREE, FREE,
                   FREE,    FREE,    FREE, FREE, FREE,
 FREE,  FREE,
 FREE,  0,  0,
-FREE,  _enter,  FREE )
+FREE,  _enter,  _space )
 };
 
 // Functions for keypress
