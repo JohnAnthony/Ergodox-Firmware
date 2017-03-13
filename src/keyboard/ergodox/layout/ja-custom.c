@@ -69,7 +69,7 @@ FREE,    FREE,    FREE,    FREE,    FREE, FREE, FREE,
                   FREE,    FREE,    FREE, FREE, FREE,
 FREE,  FREE,
 FREE,  0,  0,
-FREE,  FREE,  FREE )
+FREE,  _enter,  FREE )
 };
 
 // Functions for keypress
