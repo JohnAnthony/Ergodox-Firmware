@@ -55,7 +55,7 @@ _pageD,       0, 0,
 // left hand
   FREE,     _F1,     _F2,     _F3,  _F4,  _F5, _F11,
   FREE,    FREE, _arrowU,    FREE, FREE, FREE,    1,
-  FREE, _arrowL, _arrowD, _arrowR, FREE, FREE,
+  _esc, _arrowL, _arrowD, _arrowR, FREE, FREE,
   FREE,    FREE,    FREE,    FREE, FREE, FREE, FREE,
   FREE,    FREE,    FREE,    FREE, FREE,
                                         FREE,  FREE,
